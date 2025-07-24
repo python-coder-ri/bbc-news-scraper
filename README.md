@@ -34,7 +34,9 @@ The scraped data is saved into a CSV file.
 
 python bbc_home.py
 
+## Output
 
+Running the script will open the BBC homepage, scrape the latest news headlines, their links, and image URLs, then save the data into a CSV file named bbc_home.csv in your specified folder.
 
 
    
